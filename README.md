@@ -30,7 +30,7 @@ This is a **Tic Tac Toe** desktop game built using Python's **Tkinter GUI** libr
 python tic_tac_toe.py
 ```
 # snap
-![Screenshot](SS.png)
+![Screenshot](SS.png
 
 
 ## Dependencies
