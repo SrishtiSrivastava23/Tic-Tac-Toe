@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 
 This is a **Tic Tac Toe** desktop game built using Python's **Tkinter GUI** library. It allows **two players** to play locally or **play against the computer (AI)** using a **minimax algorithm** for unbeatable moves. The interface features a **dark theme**, **horizontal scoreboard**, and a **restart button** for convenience.
-
 ---
 
 ## Features
