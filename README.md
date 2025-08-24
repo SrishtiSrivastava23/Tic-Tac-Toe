@@ -2,9 +2,9 @@
 This is a Tic Tac Toe desktop game built using Python's Tkinter GUI library. It allows two players to play locally or play against the computer (AI) using a minimax algorithm for unbeatable moves. The interface is modern with a dark theme, horizontal scoreboard, and restart functionality.
 
 # Features
-1.Two player mode
-2.play against computer AI
-3.Restart button to reset game
+ 1.Two player mode
+ 2.play against computer AI
+ 3.Restart button to reset game
 
 # GUI Layout
 1.Choose player name
